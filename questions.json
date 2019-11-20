@@ -1,0 +1,30 @@
+var questions = [{
+
+   "question_nr" : 1,
+   "question": "test?",
+   "imgSrc" : "test.jpg",
+   "choiceA" : "Correct",
+   "choiceB" : "Correct",
+   "choiceC" : "Wrong",
+   "choiceD" : "Wrong",
+   "correctA" : 1,
+   "correctB" : 1,
+   "correctC" : 0,
+   "correctD" : 0,
+
+   
+   } , {
+
+   "question_nr" : 2,
+   "question": "test?",
+   "imgSrc" : "test.jpg",
+   "choiceA" : "Correct",
+   "choiceB" : "Correct",
+   "choiceC" : "Wrong",
+   "choiceD" : "Wrong",
+   "correctA" : 1,
+   "correctB" : 1,
+   "correctC" : 0,
+   "correctD" : 0,
+   
+}];
